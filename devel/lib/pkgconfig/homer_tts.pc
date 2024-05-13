@@ -1,0 +1,8 @@
+prefix=/home/mokhaled/ros_ws/devel
+
+Name: homer_tts
+Description: Description of homer_tts
+Version: 1.0.29
+Cflags: -I/home/mokhaled/ros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

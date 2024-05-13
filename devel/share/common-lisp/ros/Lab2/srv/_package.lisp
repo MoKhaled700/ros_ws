@@ -1,0 +1,15 @@
+(cl:defpackage Lab2-srv
+  (:use )
+  (:export
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+   "AGE"
+   "<AGE-REQUEST>"
+   "AGE-REQUEST"
+   "<AGE-RESPONSE>"
+   "AGE-RESPONSE"
+  ))
+
